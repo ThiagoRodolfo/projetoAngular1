@@ -1,0 +1,9 @@
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/util/CustomErrorType.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/model/User.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/AppController.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserService.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/SpringBootCRUDApp.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/controller/RestApiController.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/configuration/JpaConfiguration.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/repositories/UserRepository.java
+/Users/thiago/Documents/Ambiente/Workspace/SpringBootCRUDApplicationExample/src/main/java/com/websystique/springboot/service/UserServiceImpl.java
